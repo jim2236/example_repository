@@ -1,1 +1,2 @@
 some file with some text
+modifications to revert from 
